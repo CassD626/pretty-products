@@ -37,7 +37,7 @@ p {
 
 ol {
   list-style-type: none;
-  padding: 7;
+  padding: 7rem;
   margin: 0;
 
   display: grid;
